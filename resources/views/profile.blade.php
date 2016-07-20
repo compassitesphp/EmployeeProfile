@@ -91,6 +91,15 @@
                         <label><input type="checkbox">CSS</label>
                         <label><input type="checkbox">JavaScript</label>
                     </div>
+
+                    <div class="form-group">
+                        <label for="cur">Current Project:</label> <input type="cur"
+                                                                         class="form-control" id="desg" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="rep">Reporting Manager:</label> <input type="desg"
+                                                                              class="form-control" id="desg" required>
+                    </div>
                     <button type="submit" class="btn btn-default">Submit</button>
                 </form>
         </div>
